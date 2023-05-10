@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Anonymous",
+      "phone": "7530008253",
+      "email": "anonymous@gmail.com",
+      "company": "Anonymous IT",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn-gE6j6sjvg0ekFgFBIzVP5VdN3aBu9dLg&usqp=CAU",
+      "title": "Cyber security",
+      "groupId": "3"
+    },
+    {
+      "id": "Tvo908KbI",
+      "name": "Venkateshwaran",
+      "phone": "9788591391",
+      "email": "venkat@gmail.com",
+      "company": "Sortscript",
+      "photo": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "title": "Developer",
+      "groupId": "3"
+    },
+    {
+      "name": "Sakthi",
+      "phone": "9442364297",
+      "email": "sakthi@gmail.com",
+      "photo": "https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg?w=2000",
+      "company": "Sakthi tech",
+      "title": "Onnum ila",
+      "groupId": "1",
+      "id": "8X_3f45"
+    },
+    {
+      "name": "Ramona Walton",
+      "phone": "6698989890",
+      "email": "tipoxih@mailinator.com",
+      "photo": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "company": "David and Hughes LLC",
+      "title": "Ut anim dignissimos ",
+      "groupId": "3",
+      "id": "mA5pu14"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "School-Friends"
+    },
+    {
+      "id": "4",
+      "name": "College-Friends"
+    }
+  ]
+}
